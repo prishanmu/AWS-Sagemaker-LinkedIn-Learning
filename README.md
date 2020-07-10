@@ -1,4 +1,9 @@
 # AWS Sagemaker LinkedIn Learning Exercises
-Exercises from the 'Learning Amazon Sagemaker' course on Linkedin Learning
+Exercises from the 'Learning Amazon Sagemaker' course on Linkedin Learning (link: https://www.linkedin.com/learning/learning-amazon-sagemaker/)
 
-The notebooks in this Repo were created and used within an Amazon Sagemaker instance. The instance was uploaded using AWS's Git integration service. 
+**Files in Repo**
+
+* Challenge 1 - Data Investigation.ipynb
+* Challenge 2 - Train a Basic Model.ipynb
+* Challenge 3 - Transfer Model to Server.ipynb
+
